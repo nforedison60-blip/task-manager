@@ -12,7 +12,7 @@
     </style>
 </head>
 <body>
-    <h1>My Tasks</h1>
+    <h1>Edison's Tasks</h1>
 
     {{-- Add Task Form --}}
     <form method="POST" action="/tasks">
